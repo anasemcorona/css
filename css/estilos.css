@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://www.umviajante.com.br/wp-content/uploads/2019/06/voo-helicoptero-nova-york-porta-aberta-002-1280x720.jpg');
+    font-family: monospace;
+  }
+  
+  .menu {
+    background-color:white
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: teal;
+  }
+  
+  .site-subtitle {
+    font-style: italic
+  }
